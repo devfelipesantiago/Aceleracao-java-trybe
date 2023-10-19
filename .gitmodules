@@ -1,0 +1,3 @@
+[submodule "Fundamentos-java/Fundamentos-java"]
+	path = Fundamentos-java/Fundamentos-java
+	url = git@github.com:tryber/java-001-exercicio-conta-bancaria-maven.git
