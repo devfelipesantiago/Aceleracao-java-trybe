@@ -4,3 +4,6 @@
 [submodule "JavaWeb/java-001-exercicio-fitness-api"]
 	path = JavaWeb/java-001-exercicio-fitness-api
 	url = git@github.com:tryber/java-001-exercicio-fitness-api.git
+[submodule "JavaWeb/java-001-exercicio-calculadora-de-idade"]
+	path = JavaWeb/java-001-exercicio-calculadora-de-idade
+	url = git@github.com:tryber/java-001-exercicio-calculadora-de-idade.git
