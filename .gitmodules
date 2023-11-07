@@ -7,3 +7,6 @@
 [submodule "JavaWeb/java-001-exercicio-calculadora-de-idade"]
 	path = JavaWeb/java-001-exercicio-calculadora-de-idade
 	url = git@github.com:tryber/java-001-exercicio-calculadora-de-idade.git
+[submodule "JavaWeb/java-001-exercicio-caixa-eletronico"]
+	path = JavaWeb/java-001-exercicio-caixa-eletronico
+	url = git@github.com:tryber/java-001-exercicio-caixa-eletronico.git
