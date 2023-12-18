@@ -10,3 +10,6 @@
 [submodule "JavaWeb/java-001-exercicio-caixa-eletronico"]
 	path = JavaWeb/java-001-exercicio-caixa-eletronico
 	url = git@github.com:tryber/java-001-exercicio-caixa-eletronico.git
+[submodule "JavaWeb/java-001-exercicio-gerenciador-de-tarefas"]
+	path = JavaWeb/java-001-exercicio-gerenciador-de-tarefas
+	url = git@github.com:tryber/java-001-exercicio-gerenciador-de-tarefas.git
