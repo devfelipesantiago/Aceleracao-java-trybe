@@ -13,3 +13,6 @@
 [submodule "JavaWeb/java-001-exercicio-gerenciador-de-tarefas"]
 	path = JavaWeb/java-001-exercicio-gerenciador-de-tarefas
 	url = git@github.com:tryber/java-001-exercicio-gerenciador-de-tarefas.git
+[submodule "JavaWeb/java-001-projeto-localizador-de-museus"]
+	path = JavaWeb/java-001-projeto-localizador-de-museus
+	url = git@github.com:tryber/java-001-projeto-localizador-de-museus.git
